@@ -7,3 +7,7 @@ p.author {
   font-style: italic;
   font-weight: bold;
 }
+.important{
+  color: blue;
+  font-family: cursive;
+}
